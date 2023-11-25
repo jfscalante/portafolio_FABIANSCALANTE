@@ -4,18 +4,3 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.home-img img
- {
-    max-width: 500px;
-    opacity: 0;
-    animation: image  1s ease forwards ;
-    border-radius: 50%;
-    width: 500px;
-    height: 500px;
-    border: 2px solid #0ef;
-    box-shadow: 0 0 90px #0ef;
-    background-size: cover;
-    
-   
-
-}
