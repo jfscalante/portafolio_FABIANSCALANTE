@@ -67,7 +67,7 @@ body {
 
 
 @media (min-width: 768px) and (max-width: 991.98px) and (orientation:portrait) {
-    body{background: green;}
+    body{background: rgb(241, 243, 241);}
     
     .texto {
         margin-top: 35%;
